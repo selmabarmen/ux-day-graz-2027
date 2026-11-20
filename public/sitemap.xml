@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/speakers/alex-berger/</loc>
+    <loc>https://example.org/speakers/alex-berger/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/program/schedule/</loc>
+    <loc>https://example.org/program/schedule/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/speakers/daniel-smith/</loc>
+    <loc>https://example.org/speakers/daniel-smith/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/speakers/emma-wilson/</loc>
+    <loc>https://example.org/speakers/emma-wilson/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/speakers/james-wood/</loc>
+    <loc>https://example.org/speakers/james-wood/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/speakers/jane-smith/</loc>
+    <loc>https://example.org/speakers/jane-smith/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/speakers/john-miller/</loc>
+    <loc>https://example.org/speakers/john-miller/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/program/</loc>
+    <loc>https://example.org/program/</loc>
   </url><url>
-    <loc>http://localhost:1313/speakers/</loc>
+    <loc>https://example.org/speakers/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
   </url>
 </urlset>

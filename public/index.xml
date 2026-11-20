@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>UX Day Graz 2027</title>
-		<link>http://localhost:1313/</link>
+		<link>https://example.org/</link>
 		<description>Recent content on UX Day Graz 2027</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,54 +10,54 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Alex Berger</title>
-				<link>http://localhost:1313/speakers/alex-berger/</link>
+				<link>https://example.org/speakers/alex-berger/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/speakers/alex-berger/</guid>
+				<guid>https://example.org/speakers/alex-berger/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Conference program</title>
-				<link>http://localhost:1313/program/schedule/</link>
+				<link>https://example.org/program/schedule/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/program/schedule/</guid>
+				<guid>https://example.org/program/schedule/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Daniel Smith</title>
-				<link>http://localhost:1313/speakers/daniel-smith/</link>
+				<link>https://example.org/speakers/daniel-smith/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/speakers/daniel-smith/</guid>
+				<guid>https://example.org/speakers/daniel-smith/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Emma Wilson</title>
-				<link>http://localhost:1313/speakers/emma-wilson/</link>
+				<link>https://example.org/speakers/emma-wilson/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/speakers/emma-wilson/</guid>
+				<guid>https://example.org/speakers/emma-wilson/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>James Wood</title>
-				<link>http://localhost:1313/speakers/james-wood/</link>
+				<link>https://example.org/speakers/james-wood/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/speakers/james-wood/</guid>
+				<guid>https://example.org/speakers/james-wood/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Jane Smith</title>
-				<link>http://localhost:1313/speakers/jane-smith/</link>
+				<link>https://example.org/speakers/jane-smith/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/speakers/jane-smith/</guid>
+				<guid>https://example.org/speakers/jane-smith/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>John Miller</title>
-				<link>http://localhost:1313/speakers/john-miller/</link>
+				<link>https://example.org/speakers/john-miller/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/speakers/john-miller/</guid>
+				<guid>https://example.org/speakers/john-miller/</guid>
 				<description></description>
 			</item>
 	</channel>
