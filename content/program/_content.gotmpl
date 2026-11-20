@@ -1,0 +1,8 @@
+{{ $.AddPage (dict
+"path" "schedule"
+"title" "Conference program"
+"type" "program"
+"params" (dict
+    "sessions" hugo.Data.program
+    )
+) }}

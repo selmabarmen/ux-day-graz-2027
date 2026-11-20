@@ -1,0 +1,15 @@
+{{ range hugo.Data.speakers }}
+  {{ $.AddPage (dict
+    "path" .slug
+    "title" .name
+    "params" (dict
+      "role" .role
+      "company" .company
+      "roles" .roles
+      "bio" .bio
+      "additionalBio" .additionalBio
+      "talk" .talk
+      "image" .image
+    )
+  ) }}
+{{ end }}

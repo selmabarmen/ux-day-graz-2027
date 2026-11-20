@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<h1 class="page-title">{{ .Title }}</h1>
+
+<p>
+  <a href="{{ "speakers/" | relURL }}">
+    ← Back to all speakers
+  </a>
+</p>
+
+<div class="speaker-layout">
+
+  <div class="speaker-info">
+    <h3>{{ .Params.role }}</h3>
+    <p>{{ .Params.company }}</p>
+
+    <h4>Roles:</h4>
+    <p>{{ .Params.roles }}</p>
+
+    <h4>Example session</h4>
+    <p>{{ .Params.talk }}</p>
+  </div>
+
+  <div>
+  <img class="speaker-photo"
+       src="{{ .Params.image | relURL }}"
+       alt="Illustrated placeholder portrait">
+</div>
+
+  <div class="speaker-contact">
+    <h3>Web</h3>
+    <p>
+      {{ with .Params.website }}
+        <a href="{{ . }}">Personal Website</a>
+      {{ end }}
+    </p>
+
+    <h3>Social</h3>
+    <p>{{ .Params.social }}</p>
+  </div>
+
+</div>
+
+<div class="speaker-bio">
+  <h2>About {{ .Title }}</h2>
+
+  <p>{{ .Params.bio }}</p>
+
+  {{ with .Params.additionalBio }}
+    <p>{{ . }}</p>
+  {{ end }}
+
+</div>
+
+{{ end }}

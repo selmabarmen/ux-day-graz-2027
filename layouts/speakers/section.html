@@ -1,0 +1,31 @@
+
+{{ define "main" }}
+
+<h1 class="page-title">Speakers</h1>
+
+<main>
+  <h2>Meet the speakers</h2>
+  <p>
+    Learn more about the people featured in the conference
+    program.
+  </p>
+
+  <div class="speaker-grid">
+
+    {{ range .RegularPages }}
+
+      <a class="speaker-card" href="{{ .RelPermalink }}">
+        <img src="{{ .Params.image | relURL }}"
+             alt="Illustrated placeholder portrait">
+
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Params.role }}</p>
+        <p>View profile →</p>
+      </a>
+
+    {{ end }}
+
+  </div>
+</main>
+
+{{ end }}

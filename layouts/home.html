@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+<h1 class="page-title">Welcome to UX Day Graz 2027</h1>
+
+<div class="layout">
+
+  <main id="main-content">
+
+    <p>
+      This event is for those who want to gain a better
+      insight into the development of UX.
+      There will be speakers who will address various
+      topics and challenges within design.
+      We will also talk about the value of a human
+      designer over AI.
+    </p>
+
+    <p>
+      Read more about the program by clicking the
+      button below, and don't forget to register.
+      This is an event you don't want to miss.
+    </p>
+
+    <a class="main-button"
+       href="{{ "program/" | relURL }}">
+      Explore the program →
+    </a>
+
+  </main>
+
+  <aside aria-label="Event information">
+
+    <section>
+      <h2>Date</h2>
+      <p>6–9 November 2027</p>
+    </section>
+
+    <section>
+      <h2>Time</h2>
+      <p>08:00–17:00</p>
+    </section>
+
+    <section>
+      <h2>Location</h2>
+      <p>TU Graz, Austria</p>
+
+      <a href="{{ "venues/" | relURL }}">
+        Venue information →
+      </a>
+    </section>
+
+  </aside>
+
+</div>
+
+{{ end }}

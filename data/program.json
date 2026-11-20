@@ -1,0 +1,38 @@
+[
+  {
+    "time": "09:30–10:15",
+    "title": "Designing simple interfaces",
+    "speaker": "alex-berger",
+    "example": true
+  },
+  {
+    "time": "10:45–11:30",
+    "title": "Accessibility in everyday design",
+    "speaker": "jane-smith",
+    "example": true
+  },
+  {
+    "time": "11:30–12:15",
+    "title": "Understanding user needs",
+    "speaker": "john-miller",
+    "example": true
+  },
+  {
+    "time": "12:30–13:15",
+    "title": "AI",
+    "speaker": "Jonathan",
+    "example": true
+  },
+  {
+    "time": "13:30–14:15",
+    "title": "User Interface",
+    "speaker": "Theo",
+    "example": true
+  },
+  {
+    "time": "14:30–15:15",
+    "title": "Color Palette",
+    "speaker": "Theo",
+    "example": true
+  }
+]

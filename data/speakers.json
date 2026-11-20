@@ -1,0 +1,76 @@
+[
+  {
+    "slug": "alex-berger",
+    "name": "Alex Berger",
+    "role": "UX Designer & Web Developer",
+    "company": "CreativePixel Studio, Graz",
+    "roles": "Speaker, Volunteer",
+    "bio": "Alex Berger is a UX designer and web developer from Graz, Austria. He enjoys creating simple and user-friendly websites.",
+    "additionalBio": "He is passionate about technology, design, and improving digital experiences. In his free time, he enjoys photography, travelling, and learning new skills.",
+    "talk": "Designing simple interfaces",
+    "example": false,
+    "image": "images/alex-berger.jpg"
+  },
+  {
+    "slug": "jane-smith",
+    "name": "Jane Smith",
+    "role": "Accessibility Designer",
+    "company": "Example organisation",
+    "roles": "Speaker",
+    "bio": "Jane is an example speaker created for this student website. Her example session introduces accessibility principles for digital interfaces.",
+    "additionalBio": "The session discusses readable text, keyboard navigation and clear labels.",
+    "talk": "Accessibility in everyday design",
+    "example": true,
+    "image": "images/jane-smith.jpg"
+  },
+  {
+    "slug": "john-miller",
+    "name": "John Miller",
+    "role": "UX Researcher",
+    "company": "Example organisation",
+    "roles": "Speaker",
+    "bio": "John is an example speaker created for this student website. His example session focuses on understanding what people need from digital services.",
+    "additionalBio": "The session covers interviews, observation and testing early design ideas with users.",
+    "talk": "Understanding user needs",
+    "example": true,
+    "image": "images/john-miller.jpg"
+  },
+  {
+    "slug": "james-wood",
+    "name": "James Wood",
+    "role": "Web Developer",
+    "company": "Tech Solutins",
+    "roles": "Speaker",
+    "bio": "James is a web developer who enjoys building websites.",
+    "additionalBio": "The session covers coding and moderns websites. ",
+    "talk": "Building modern websites",
+    "example": true,
+    "image": "images/james-wood.jpg"
+  },
+  {
+    "slug": "emma-wilson",
+    "name": "Emma Wilson",
+    "role": "Project Manager",
+    "company": "Digital Agency",
+    "roles": "Speaker",
+    "bio": "Emma is a project manager who helps teams plan and complete successful digital projects.",
+    "additionalBio": "The session covers teamwork.",
+    "talk": "Managing successful projects.",
+    "example": true,
+    "image": "images/emma-wilson.jpg"
+  },
+  {
+    "slug": "daniel-smith",
+    "name": "Daniel Smith",
+    "role": "Digital Marketing Specialist",
+    "company": "Innovation Agency",
+    "roles": "Speaker",
+    "bio": "John is a digital marketing specialist, with a big passion for user interface. ",
+    "additionalBio": "The session covers the value of a good user interface for digital marketing.",
+    "talk": "Understanding digital marketing",
+    "example": true,
+    "image": "images/daniel-smith.jpg"
+  }
+
+  
+]

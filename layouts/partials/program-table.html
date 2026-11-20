@@ -1,0 +1,18 @@
+
+<table class="schedule">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {{ range . }}
+      <tr>
+        <td>{{ .time }}</td>
+        <td>{{ .title }}</td>
+      </tr>
+    {{ end }}
+  </tbody>
+</table>
