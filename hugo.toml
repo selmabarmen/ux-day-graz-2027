@@ -1,5 +1,5 @@
 baseURL = "/"
 locale = 'en-us'
 title = 'UX Day Graz 2027'
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = false
