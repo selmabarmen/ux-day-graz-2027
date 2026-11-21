@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>UX Day Graz 2027</title>
-		<link>https://example.org/</link>
+		<link>/</link>
 		<description>Recent content on UX Day Graz 2027</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,54 +10,54 @@
 		
 		
 		
-			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Alex Berger</title>
-				<link>https://example.org/speakers/alex-berger/</link>
+				<link>/speakers/alex-berger/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/speakers/alex-berger/</guid>
+				<guid>/speakers/alex-berger/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Conference program</title>
-				<link>https://example.org/program/schedule/</link>
+				<link>/program/schedule/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/program/schedule/</guid>
+				<guid>/program/schedule/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Daniel Smith</title>
-				<link>https://example.org/speakers/daniel-smith/</link>
+				<link>/speakers/daniel-smith/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/speakers/daniel-smith/</guid>
+				<guid>/speakers/daniel-smith/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Emma Wilson</title>
-				<link>https://example.org/speakers/emma-wilson/</link>
+				<link>/speakers/emma-wilson/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/speakers/emma-wilson/</guid>
+				<guid>/speakers/emma-wilson/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>James Wood</title>
-				<link>https://example.org/speakers/james-wood/</link>
+				<link>/speakers/james-wood/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/speakers/james-wood/</guid>
+				<guid>/speakers/james-wood/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Jane Smith</title>
-				<link>https://example.org/speakers/jane-smith/</link>
+				<link>/speakers/jane-smith/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/speakers/jane-smith/</guid>
+				<guid>/speakers/jane-smith/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>John Miller</title>
-				<link>https://example.org/speakers/john-miller/</link>
+				<link>/speakers/john-miller/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/speakers/john-miller/</guid>
+				<guid>/speakers/john-miller/</guid>
 				<description></description>
 			</item>
 	</channel>

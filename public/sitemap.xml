@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/speakers/alex-berger/</loc>
+    <loc>/speakers/alex-berger/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://example.org/program/schedule/</loc>
+    <loc>/program/schedule/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.org/speakers/daniel-smith/</loc>
+    <loc>/speakers/daniel-smith/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.org/speakers/emma-wilson/</loc>
+    <loc>/speakers/emma-wilson/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.org/speakers/james-wood/</loc>
+    <loc>/speakers/james-wood/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.org/speakers/jane-smith/</loc>
+    <loc>/speakers/jane-smith/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.org/speakers/john-miller/</loc>
+    <loc>/speakers/john-miller/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.org/program/</loc>
+    <loc>/program/</loc>
   </url><url>
-    <loc>https://example.org/speakers/</loc>
+    <loc>/speakers/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>/</loc>
   </url>
 </urlset>
