@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Speakers on UX Day Graz 2027</title>
-		<link>/speakers/</link>
+		<link>https://selmabarmen.github.io/ux-day-graz-2027/speakers/</link>
 		<description>Recent content in Speakers on UX Day Graz 2027</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,47 +10,47 @@
 		
 		
 		
-			<atom:link href="/speakers/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://selmabarmen.github.io/ux-day-graz-2027/speakers/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Alex Berger</title>
-				<link>/speakers/alex-berger/</link>
+				<link>https://selmabarmen.github.io/ux-day-graz-2027/speakers/alex-berger/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/speakers/alex-berger/</guid>
+				<guid>https://selmabarmen.github.io/ux-day-graz-2027/speakers/alex-berger/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Daniel Smith</title>
-				<link>/speakers/daniel-smith/</link>
+				<link>https://selmabarmen.github.io/ux-day-graz-2027/speakers/daniel-smith/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/speakers/daniel-smith/</guid>
+				<guid>https://selmabarmen.github.io/ux-day-graz-2027/speakers/daniel-smith/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Emma Wilson</title>
-				<link>/speakers/emma-wilson/</link>
+				<link>https://selmabarmen.github.io/ux-day-graz-2027/speakers/emma-wilson/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/speakers/emma-wilson/</guid>
+				<guid>https://selmabarmen.github.io/ux-day-graz-2027/speakers/emma-wilson/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>James Wood</title>
-				<link>/speakers/james-wood/</link>
+				<link>https://selmabarmen.github.io/ux-day-graz-2027/speakers/james-wood/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/speakers/james-wood/</guid>
+				<guid>https://selmabarmen.github.io/ux-day-graz-2027/speakers/james-wood/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Jane Smith</title>
-				<link>/speakers/jane-smith/</link>
+				<link>https://selmabarmen.github.io/ux-day-graz-2027/speakers/jane-smith/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/speakers/jane-smith/</guid>
+				<guid>https://selmabarmen.github.io/ux-day-graz-2027/speakers/jane-smith/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>John Miller</title>
-				<link>/speakers/john-miller/</link>
+				<link>https://selmabarmen.github.io/ux-day-graz-2027/speakers/john-miller/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>/speakers/john-miller/</guid>
+				<guid>https://selmabarmen.github.io/ux-day-graz-2027/speakers/john-miller/</guid>
 				<description></description>
 			</item>
 	</channel>
