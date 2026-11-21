@@ -1,4 +1,4 @@
-baseURL = "https://selmabarmen.github.io/ux-day-graz-2027/"
+baseURL = "/"
 locale = 'en-us'
 title = 'UX Day Graz 2027'
 relativeURLs = true
