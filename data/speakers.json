@@ -9,7 +9,9 @@
     "additionalBio": "He is passionate about technology, design, and improving digital experiences. In his free time, he enjoys photography, travelling, and learning new skills.",
     "talk": "Designing simple interfaces",
     "example": false,
-    "image": "images/alex-berger.jpg"
+    "image": "images/alex-berger.jpg",
+    "website": "#",
+    "social": "@alex-berger"
   },
   {
     "slug": "jane-smith",
@@ -21,7 +23,9 @@
     "additionalBio": "The session discusses readable text, keyboard navigation and clear labels.",
     "talk": "Accessibility in everyday design",
     "example": true,
-    "image": "images/jane-smith.jpg"
+    "image": "images/jane-smith.jpg",
+    "website": "#",
+    "social": "@jane-smith"
   },
   {
     "slug": "john-miller",
@@ -33,7 +37,10 @@
     "additionalBio": "The session covers interviews, observation and testing early design ideas with users.",
     "talk": "Understanding user needs",
     "example": true,
-    "image": "images/john-miller.jpg"
+    "image": "images/john-miller.jpg",
+    "website": "#",
+    "social": "@john-miller"
+    
   },
   {
     "slug": "james-wood",
@@ -45,7 +52,9 @@
     "additionalBio": "The session covers coding and moderns websites. ",
     "talk": "Building modern websites",
     "example": true,
-    "image": "images/james-wood.jpg"
+    "image": "images/james-wood.jpg",
+    "website": "#",
+    "social": "@james-wood"
   },
   {
     "slug": "emma-wilson",
@@ -57,7 +66,9 @@
     "additionalBio": "The session covers teamwork.",
     "talk": "Managing successful projects.",
     "example": true,
-    "image": "images/emma-wilson.jpg"
+    "image": "images/emma-wilson.jpg",
+    "website": "#",
+    "social": "@Emma-wilson"
   },
   {
     "slug": "daniel-smith",
@@ -69,7 +80,9 @@
     "additionalBio": "The session covers the value of a good user interface for digital marketing.",
     "talk": "Understanding digital marketing",
     "example": true,
-    "image": "images/daniel-smith.jpg"
+    "image": "images/daniel-smith.jpg",
+    "website": "#",
+    "social": "@daniel-smith"
   }
 
   
