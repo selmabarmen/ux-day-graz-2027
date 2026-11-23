@@ -12,8 +12,18 @@
     {{ range . }}
       <tr>
         <td>{{ .time }}</td>
-        <td>{{ .title }}</td>
-        <td>{{ .details }}</td>
+        <td>{{ .session }}</td>
+        
+        <td>
+          {{ if .speakerName }}
+            <a href="{{ .speakerHref | relURL }}" class="speaker-link">
+              {{ .speakerName }}
+            </a>
+            ·
+          {{ end }}
+          {{ .details }}
+</td>
+
       </tr>
     {{ end }}
   </tbody>
