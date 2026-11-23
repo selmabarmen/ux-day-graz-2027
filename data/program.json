@@ -16,7 +16,7 @@
       "time": "09:30–10:15",
       "session": "Designing simple interfaces",
       "speakerName": "Alex Berger",
-      "speakerHref": "/speakers/alex-berger",
+      "speakerHref": "speakers/alex-berger/",
       "details": "Example talk"
     },
     {
@@ -28,14 +28,14 @@
       "time": "10:45–11:30",
       "session": "Accessibility in everyday design",
       "speakerName": "Jane Smith",
-      "speakerHref": "/speakers/jane-smith",
+      "speakerHref": "speakers/jane-smith/",
       "details": "Example speaker and talk"
     },
     {
       "time": "11:30–12:15",
       "session": "Understanding user needs",
       "speakerName": "John Miller",
-      "speakerHref": "/speakers/john-miller",
+      "speakerHref": "speakers/john-miller/",
       "details": "Example speaker and talk"
     },
     {
