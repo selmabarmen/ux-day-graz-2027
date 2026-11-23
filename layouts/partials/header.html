@@ -4,9 +4,9 @@
 </header>
 
 <nav aria-label="Main navigation">
-  <a href="{{ "" | relURL }}">Home</a>
-  <a href="{{ "program/" | relURL }}">Program</a>
-  <a href="{{ "speakers/" | relURL }}">Speakers</a>
+  <a href="{{ "" | relURL }}"{{ if .IsHome }} aria-current="page"{{ end }}>Home</a>
+  <a href="{{ "program/" | relURL }}"{{ if eq .Section "program" }} aria-current="page"{{ end }}>Program</a>
+  <a href="{{ "speakers/" | relURL }}"{{ if eq .Section "speakers" }} aria-current="page"{{ end }}>Speakers</a>
   <a href="{{ "venues/" | relURL }}">Venues</a>
   <a href="{{ "registration/" | relURL }}">Registration</a>
 </nav>
