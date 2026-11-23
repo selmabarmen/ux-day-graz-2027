@@ -1,0 +1,38 @@
+
+{{ define "main" }}
+{{ $registration := site.Data.event.registrationPage }}
+
+<h1 class="page-heading">
+  {{ $registration.heading }}
+</h1>
+
+<section class="surface-card registration-wrapper">
+
+  <h2 class="registration-subheading">
+    {{ $registration.subheading }}
+  </h2>
+
+  <p class="registration-intro">
+    {{ $registration.intro }}
+  </p>
+
+  <div class="info-grid">
+    {{ range $registration.cards }}
+      <article class="info-box">
+        <h3 class="info-box-title">
+          {{ .title }}
+        </h3>
+        <p class="info-box-text">
+          {{ .description }}
+        </p>
+      </article>
+    {{ end }}
+  </div>
+
+  <a href="{{ $registration.backButtonHref | relURL }}"
+     class="btn-primary">
+    {{ $registration.backButtonLabel }}
+  </a>
+
+</section>
+{{ end }}

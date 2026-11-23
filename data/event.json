@@ -1,0 +1,194 @@
+{
+  "siteTitle": "UX Day Graz 2027",
+  "siteSubtitle": "A community event for UX and design in Graz.",
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Program", "href": "/program" },
+    { "label": "Speakers", "href": "/speakers" },
+    { "label": "Venues", "href": "/venues" },
+    { "label": "Registration", "href": "/registration" }
+  ],
+  "home": {
+    "heading": "Welcome to UX Day Graz 2027",
+    "introParagraph1": "This event is for those who want to gain a better insight into the development of UX. There will be speakers who will address various topics and challenges within design. We will also talk about the value of a human designer over AI.",
+    "introParagraph2": "Read more about the program by clicking the button below, and don't forget to register. This is an event you don't want to miss.",
+    "ctaLabel": "Explore the program →",
+    "ctaHref": "/program",
+    "details": {
+      "dateLabel": "Date",
+      "dateValue": "6–9 November 2027",
+      "timeLabel": "Time",
+      "timeValue": "08:00–17:00",
+      "locationLabel": "Location",
+      "locationValue": "TU Graz, Austria",
+      "venueLinkLabel": "Venue information →",
+      "venueLinkHref": "/venues"
+    }
+  },
+  "program": {
+    "heading": "Program",
+    "schedule": [
+      {
+        "time": "08:00–09:00",
+        "session": "Arrival and check-in",
+        "details": "Meet other participants before the talks begin."
+      },
+      {
+        "time": "09:00–09:30",
+        "session": "Welcome to UX Day Graz",
+        "details": "Introduction to the event and its theme."
+      },
+      {
+        "time": "09:30–10:15",
+        "session": "Designing simple interfaces",
+        "speakerName": "Alex Berger",
+        "speakerHref": "/speakers/alex-berger",
+        "details": "Example talk"
+      },
+      {
+        "time": "10:15–10:45",
+        "session": "Break",
+        "details": "Refreshments and networking."
+      },
+      {
+        "time": "10:45–11:30",
+        "session": "Accessibility in everyday design",
+        "speakerName": "Jane Smith",
+        "speakerHref": "/speakers/jane-smith",
+        "details": "Example speaker and talk"
+      },
+      {
+        "time": "11:30–12:15",
+        "session": "Understanding user needs",
+        "speakerName": "John Miller",
+        "speakerHref": "/speakers/john-miller",
+        "details": "Example speaker and talk"
+      },
+      {
+        "time": "12:15–13:15",
+        "session": "Lunch break",
+        "details": "Time to relax and meet other attendees."
+      },
+      {
+        "time": "13:15–14:15",
+        "session": "Group discussion",
+        "details": "Ideas for improving real-world digital experiences."
+      },
+      {
+        "time": "14:15–15:00",
+        "session": "Content and navigation",
+        "details": "How to organise information so people can find it."
+      },
+      {
+        "time": "15:00–15:30",
+        "session": "Break",
+        "details": "Informal networking."
+      },
+      {
+        "time": "15:30–16:30",
+        "session": "Questions and discussion",
+        "details": "Share experiences and lessons learned."
+      },
+      {
+        "time": "16:30–17:00",
+        "session": "Closing",
+        "details": "Summary and next steps."
+      }
+    ]
+  },
+  "speakersPage": {
+    "heading": "Speakers",
+    "subheading": "Meet our featured speakers",
+    "intro": "Learn from designers, researchers, and developers sharing practical insights in UX design.",
+    "list": [
+      {
+        "slug": "alex-berger",
+        "name": "Alex Berger",
+        "role": "UX Designer & Web Developer",
+        "company": "CreativePixel Studio, Graz",
+        "roles": "Speaker, Volunteer",
+        "session": "Designing simple interfaces",
+        "image": "/images/alex-berger.jpg",
+        "websiteLabel": "Personal Website",
+        "websiteHref": "#",
+        "social": "@alex-berger",
+        "about": [
+          "Alex Berger is a UX designer and web developer from Graz, Austria. He enjoys creating simple and user-friendly websites.",
+          "He is passionate about technology, design, and improving digital experiences. In his free time, he enjoys photography, travelling, and learning new skills."
+        ]
+      },
+      {
+        "slug": "jane-smith",
+        "name": "Jane Smith",
+        "role": "Accessibility Designer",
+        "company": "Inclusive Web Lab, Vienna",
+        "roles": "Speaker",
+        "session": "Accessibility in everyday design",
+        "image": "/images/jane-smith.jpg",
+        "websiteLabel": "Personal Website",
+        "websiteHref": "#",
+        "social": "@jane-smith",
+        "about": [
+          "Jane Smith is an accessibility designer from Vienna, Austria. She specializes in making digital products usable for people of all abilities.",
+          "She works closely with engineering teams to embed WCAG guidelines into everyday workflows. Outside of work, she enjoys hiking and architecture."
+        ]
+      },
+      {
+        "slug": "john-miller",
+        "name": "John Miller",
+        "role": "UX Researcher",
+        "company": "Human Insights Group, Graz",
+        "roles": "Speaker, Panelist",
+        "session": "Understanding user needs",
+        "image": "/images/john-miller.jpg",
+        "websiteLabel": "Personal Website",
+        "websiteHref": "#",
+        "social": "@john-miller",
+        "about": [
+          "John Miller is a UX researcher based in Graz, Austria. He helps organizations uncover real user needs through qualitative interviews and usability testing.",
+          "He believes strong research is the foundation of meaningful human-centered design. In his spare time, he enjoys cycling and reading."
+        ]
+      }
+    ]
+  },
+  "venuesPage": {
+    "heading": "Venues",
+    "locationHeading": "Location",
+    "locationPrefix": "UX Day Graz 2027 will take place at ",
+    "locationBold": "TU Graz, Austria.",
+    "locationSuffix": " All talks, workshops, and networking sessions will be hosted on campus.",
+    "transportHeading": "Getting There",
+    "transportText": "Graz offers convenient tram and bus connections directly to the campus. You can easily reach the venue from the city center and the main train station.",
+    "highlights": [
+      {
+        "title": "Check-in",
+        "description": "Arrive early to complete registration and enjoy a welcome coffee before the first talk."
+      },
+      {
+        "title": "Accessibility",
+        "description": "All lecture halls and facilities are step-free and fully accessible for all attendees."
+      },
+      {
+        "title": "Facilities",
+        "description": "Free Wi-Fi, coffee breaks, and comfortable seating areas are available throughout the venue."
+      }
+    ]
+  },
+  "registrationPage": {
+    "heading": "Registration",
+    "subheading": "Registration Details",
+    "intro": "Attendance at UX Day Graz 2027 is free, but advance registration is required. Spots are limited!",
+    "cards": [
+      {
+        "title": "When",
+        "description": "Please submit the registration form before November 1, 2027."
+      },
+      {
+        "title": "Cost",
+        "description": "Zero euros. Completely free of charge."
+      }
+    ],
+    "backButtonLabel": "Back to Home →",
+    "backButtonHref": "/"
+  }
+}
