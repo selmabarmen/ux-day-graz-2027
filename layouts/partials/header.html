@@ -8,5 +8,5 @@
   <a href="{{ "program/" | relURL }}"{{ if eq .Section "program" }} aria-current="page"{{ end }}>Program</a>
   <a href="{{ "speakers/" | relURL }}"{{ if eq .Section "speakers" }} aria-current="page"{{ end }}>Speakers</a>
   <a href="{{ "venues/" | relURL }}">Venues</a>
-  <a href="{{ "registration/" | relURL }}">Registration</a>
+  <a href="{{ "registration/" | relURL }}"{{ if eq .Section "registration" }} aria-current="page"{{ end }}>Registration</a>
 </nav>
