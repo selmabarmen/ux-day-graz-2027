@@ -1,38 +1,72 @@
-[
-  {
-    "time": "09:30–10:15",
-    "title": "Designing simple interfaces",
-    "speaker": "alex-berger",
-    "example": true
-  },
-  {
-    "time": "10:45–11:30",
-    "title": "Accessibility in everyday design",
-    "speaker": "jane-smith",
-    "example": true
-  },
-  {
-    "time": "11:30–12:15",
-    "title": "Understanding user needs",
-    "speaker": "john-miller",
-    "example": true
-  },
-  {
-    "time": "12:30–13:15",
-    "title": "AI",
-    "speaker": "Jonathan",
-    "example": true
-  },
-  {
-    "time": "13:30–14:15",
-    "title": "User Interface",
-    "speaker": "Theo",
-    "example": true
-  },
-  {
-    "time": "14:30–15:15",
-    "title": "Color Palette",
-    "speaker": "Theo",
-    "example": true
-  }
-]
+
+{
+  "heading": "Program",
+  "schedule": [
+    {
+      "time": "08:00–09:00",
+      "session": "Arrival and check-in",
+      "details": "Meet other participants before the talks begin."
+    },
+    {
+      "time": "09:00–09:30",
+      "session": "Welcome to UX Day Graz",
+      "details": "Introduction to the event and its theme."
+    },
+    {
+      "time": "09:30–10:15",
+      "session": "Designing simple interfaces",
+      "speakerName": "Alex Berger",
+      "speakerHref": "/speakers/alex-berger",
+      "details": "Example talk"
+    },
+    {
+      "time": "10:15–10:45",
+      "session": "Break",
+      "details": "Refreshments and networking."
+    },
+    {
+      "time": "10:45–11:30",
+      "session": "Accessibility in everyday design",
+      "speakerName": "Jane Smith",
+      "speakerHref": "/speakers/jane-smith",
+      "details": "Example speaker and talk"
+    },
+    {
+      "time": "11:30–12:15",
+      "session": "Understanding user needs",
+      "speakerName": "John Miller",
+      "speakerHref": "/speakers/john-miller",
+      "details": "Example speaker and talk"
+    },
+    {
+      "time": "12:15–13:15",
+      "session": "Lunch break",
+      "details": "Time to relax and meet other attendees."
+    },
+    {
+      "time": "13:15–14:15",
+      "session": "Group discussion",
+      "details": "Ideas for improving real-world digital experiences."
+    },
+    {
+      "time": "14:15–15:00",
+      "session": "Content and navigation",
+      "details": "How to organise information so people can find it."
+    },
+    {
+      "time": "15:00–15:30",
+      "session": "Break",
+      "details": "Informal networking."
+    },
+    {
+      "time": "15:30–16:30",
+      "session": "Questions and discussion",
+      "details": "Share experiences and lessons learned."
+    },
+    {
+      "time": "16:30–17:00",
+      "session": "Closing",
+      "details": "Summary and next steps."
+    }
+  ]
+}
